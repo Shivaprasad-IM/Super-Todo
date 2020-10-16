@@ -1,0 +1,17 @@
+body{
+    margin: 0px;
+    font-family: 'Noto Sans JP', sans-serif;
+    background-color: #fafafa;
+    color: #616161;
+}
+hr{
+    color: gray;
+    border-color: gray;
+}
+
+h1{
+    font-size: 20px;
+    margin: 20px opx 10px;
+    font-weight: bold;
+}
+

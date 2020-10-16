@@ -1,0 +1,25 @@
+.add-todo-input{
+    height: 36px;
+    width: 280px;
+    background-color: #fff;
+    font-size: 16px;
+    color: grey;
+    border-radius: 10px;
+    border: 1px solid grey;
+    border-radius:15px;
+    padding: 0px 14px;
+}
+
+.add-todo-input:focus{
+    outline: none;
+}
+.add-todo-button{
+    height: 36px;
+    width: 80px;
+    font-size: 18px;
+    background-color:rgb(245, 68, 127);
+    color: #fff;
+    border:  1px solid #fff;
+    border-radius: 15px;
+
+}

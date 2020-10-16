@@ -1,0 +1,12 @@
+.top-bar{
+    background-color: deeppink;
+    width: 100%;
+    height: 42px;
+}
+
+.logo{
+    color: white;
+    font-size: 25px;
+    line-height: 42px;
+    font-family: 'Supermercado One', cursive;
+}

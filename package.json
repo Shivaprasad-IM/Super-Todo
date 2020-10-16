@@ -1,0 +1,19 @@
+{
+  "name": "super-todo",
+  "version": "1.0.0",
+  "description": "Reactjs app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel ./public/index.html"
+  },
+  "author": "shivaprasad",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
